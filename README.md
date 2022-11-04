@@ -36,7 +36,7 @@ Patika.dev, Veri Yapıları ve Algoritmalar, Binary Search Tree Projesi
                                                                    5            8 
 
                                                                 /    \        /    \
-SONUÇ: 
+ 
                                                               1       6              9
 
                                                             /   \
